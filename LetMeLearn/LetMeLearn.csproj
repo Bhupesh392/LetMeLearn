@@ -79,6 +79,7 @@
     <Folder Include="Views\Teacher\" />
     <Folder Include="Views\Pricing\" />
     <Folder Include="Views\About\" />
+    <Folder Include="Views\Course\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\HomeController.cs" />
@@ -93,6 +94,8 @@
     <Compile Include="Controllers\AboutController.cs" />
     <Compile Include="Models\Teachers.cs" />
     <Compile Include="Models\Pricing.cs" />
+    <Compile Include="Controllers\CourseController.cs" />
+    <Compile Include="Models\Course.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />
@@ -237,6 +240,7 @@
     <Content Include="Views\Teacher\Index.cshtml" />
     <Content Include="Views\Pricing\Index.cshtml" />
     <Content Include="Views\About\Index.cshtml" />
+    <Content Include="Views\Course\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="css\.DS_Store" />
