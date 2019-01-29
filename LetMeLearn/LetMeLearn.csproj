@@ -80,6 +80,7 @@
     <Folder Include="Views\Pricing\" />
     <Folder Include="Views\About\" />
     <Folder Include="Views\Course\" />
+    <Folder Include="Helpers\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\HomeController.cs" />
@@ -96,6 +97,7 @@
     <Compile Include="Models\Pricing.cs" />
     <Compile Include="Controllers\CourseController.cs" />
     <Compile Include="Models\Course.cs" />
+    <Compile Include="Helpers\EnumHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />

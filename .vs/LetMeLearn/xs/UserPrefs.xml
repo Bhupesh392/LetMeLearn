@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{A85BDECB-F7DD-45D7-ADEE-2D3917B83D64}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LetMeLearn/Views/Course/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LetMeLearn/Controllers/CourseController.cs">
     <Files>
       <File FileName="LetMeLearn/App_Start/RouteConfig.cs" Line="1" Column="1" />
       <File FileName="LetMeLearn/Controllers/HomeController.cs" Line="17" Column="1" />
@@ -8,9 +8,10 @@
       <File FileName="LetMeLearn/Views/About/Index.cshtml" Line="1" Column="1" />
       <File FileName="LetMeLearn/Views/Contact/Index.cshtml" Line="1" Column="1" />
       <File FileName="LetMeLearn/Views/Shared/_Layout.cshtml" Line="104" Column="75" />
-      <File FileName="LetMeLearn/Controllers/CourseController.cs" Line="1" Column="1" />
-      <File FileName="LetMeLearn/Views/Course/Index.cshtml" Line="34" Column="17" />
-      <File FileName="LetMeLearn/Models/Course.cs" Line="9" Column="52" />
+      <File FileName="LetMeLearn/Controllers/CourseController.cs" Line="66" Column="5" />
+      <File FileName="LetMeLearn/Views/Course/Index.cshtml" Line="35" Column="17" />
+      <File FileName="LetMeLearn/Models/Course.cs" Line="8" Column="22" />
+      <File FileName="LetMeLearn/Helpers/EnumHelper.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
