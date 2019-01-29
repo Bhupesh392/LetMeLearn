@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A85BDECB-F7DD-45D7-ADEE-2D3917B83D64}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LetMeLearn/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="LetMeLearn/App_Start/RouteConfig.cs" Line="20" Column="1" />
+      <File FileName="LetMeLearn/Views/_ViewStart.cshtml" Line="4" Column="1" />
+      <File FileName="LetMeLearn/Controllers/HomeController.cs" Line="15" Column="1" />
+      <File FileName="LetMeLearn/Controllers/TeacherController.cs" Line="76" Column="1" />
+      <File FileName="LetMeLearn/Controllers/AboutController.cs" Line="13" Column="28" />
+      <File FileName="LetMeLearn/Views/About/Index.cshtml" Line="1" Column="1" />
+      <File FileName="LetMeLearn/Views/Contact/Index.cshtml" Line="2" Column="46" />
+      <File FileName="LetMeLearn/Views/Shared/_Layout.cshtml" Line="102" Column="76" />
+      <File FileName="LetMeLearn/Views/Home/Index.cshtml" Line="172" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LetMeLearn.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.LetMeLearn PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bhupeshsharma/Downloads/LetMeLearn/LetMeLearn/Controllers/HomeController.cs" relfile="LetMeLearn/Controllers/HomeController.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <AuthorInfo Name="bhupesh Sharma" Email="" Copyright="" Company="" Trademark="" />
+</Properties>
